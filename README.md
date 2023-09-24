@@ -14,9 +14,7 @@
 <div markdown="1">
   
 ### [맘스터치 키오스크 & 관리자 페이지](https://github.com/HeesuYeo/Momstouch_Kiosk)    
->기술 스택:  
->Java 17 / Oracle DataBase  
->  
+  
 >[프로젝트 상세 설명](https://github.com/HeesuYeo/Momstouch_Kiosk) 참고
 
 </details>
@@ -34,8 +32,8 @@
 <summary><b>펼치기</b></summary>
 <div markdown="1">
 
-### Concert Connect](https://github.com/HeesuYeo/Fin_project)  
->  
->[프로젝트 상세 설명](https://github.com/HeesuYeo/Fin_project) 참고
+### [Concert Connect](https://github.com/HeesuYeo/Concert_Connect)  
+
+>[프로젝트 상세 설명](https://github.com/HeesuYeo/Concert_Connect) 참고
 
 </details>
